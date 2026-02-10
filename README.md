@@ -9,28 +9,28 @@ Breve descripcion
 - [instalacion](#instalacion)
 
 ---
-## Caracterisiticas del proyecto 
+## Caracterisiticas 
 - Funcionalidad 1 
 - Funcionalidad 2
 - Funcionalidad 3
 
 ---
 
-## Tecnologias
+## Tecnologia
 - Lenguaje/ Framwork principal 
 - base de datos
 - librerias claves 
 
 ---
 
-## requirimientos 
+## requerimientos 
 - version minima del lenguaje 
 - dependencias necesarias 
 - software requerido 
 
 ---
-## Instacion
+## instalacion
 pasos para instalar el proyecto localmente
 
 ```bash
-git clone https://github.com/Alejandro303/repo2 
+git clone https://github.com/Alejandro303/repo2.git
