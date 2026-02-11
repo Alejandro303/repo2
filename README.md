@@ -26,7 +26,7 @@ Breve descripcion
 ## requerimientos 
 - version minima del lenguaje 
 - dependencias necesarias 
-- software requerido 
+
 
 ---
 ## instalacion
@@ -41,6 +41,6 @@ git clone https://github.com/Alejandro303/repo2.git
 ## lineas codigo Alejandro 
 
 lineas de prueba para ver en el repositorio de Teylor
- 
+
 
 
