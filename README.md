@@ -1,6 +1,6 @@
 # proyecto de uso de herramientas git contribuyentes 
 
-linea para generar conflicto rama main 
+linea para generar conflicto ramas main 
 
 ## Tabla de contenido 
 - [caracteristicas](#caracterisiticas)
