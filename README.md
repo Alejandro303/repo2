@@ -3,9 +3,9 @@
 Breve descripcion 
 
 ## Tabla de contenido 
-- [caracteristicas](#caracteristicas)
+- [caracteristicas](#caracterisiticas)
 - [tecnologias](#tecnologias)
-- [requerimientos](requerimientos)
+- [requerimientos](#requerimientos)
 - [instalacion](#instalacion)
 
 ---
@@ -34,3 +34,13 @@ pasos para instalar el proyecto localmente
 
 ```bash
 git clone https://github.com/Alejandro303/repo2.git
+
+```
+---
+
+## lineas codigo Alejandro 
+
+lineas de prueba para ver en el repositorio de Teylor
+ 
+
+
