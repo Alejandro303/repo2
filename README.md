@@ -13,6 +13,7 @@ Breve descripcion
 - Funcionalidad 1 
 - Funcionalidad 2
 - Funcionalidad 3
+- Funcionalidad 4
 
 ---
 
@@ -20,6 +21,7 @@ Breve descripcion
 - Lenguaje/ Framwork principal 
 - base de datos
 - librerias claves 
+- SQL
 
 ---
 
@@ -44,5 +46,6 @@ lineas de prueba para ver en el repositorio de Teylor
 
 dddefinfe
  
+nuevas lineas de prueba
 
 
