@@ -52,4 +52,4 @@ nuevasssssss nuevassss
 ---
 ## Video tutorial 
 
-[![CLICK PARA VER VIDEO TUTORIAL FULL LINK MEGA/MEDIAFIRE](asset/images.png)](https://www.youtube.com/watch?v=ixiTVt9ZYq0)
+[![CLICK PARA VER VIDEO TUTORIAL FULL LINK MEGA/MEDIAFIRE](https://static.vecteezy.com/system/resources/previews/062/806/641/non_2x/phoenix-bird-fiery-plumage-black-background-cut-out-transparent-png.png)](https://www.youtube.com/watch?v=ixiTVt9ZYq0)
