@@ -1,7 +1,7 @@
 # proyecto de uso de herramientas git contribuyentes 
 
 linea para generar conflicto ramas main 
-
+linea de error 2
 ## Tabla de contenido 
 - [caracteristicas](#caracterisiticas)
 - [tecnologias](#tecnologias)
