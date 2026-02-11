@@ -13,6 +13,7 @@ linea para generar conflicto rama alejandro
 - Funcionalidad 1 
 - Funcionalidad 2
 - Funcionalidad 3
+- Funcionalidad 4
 
 ---
 
@@ -20,6 +21,7 @@ linea para generar conflicto rama alejandro
 - Lenguaje/ Framwork principal 
 - base de datos
 - librerias claves 
+- SQL
 
 ---
 
