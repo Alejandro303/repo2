@@ -1,6 +1,6 @@
 # proyecto de uso de herramientas git contribuyentes 
 
-Breve descripcion 
+linea para generar conflicto rama alejandro 
 
 ## Tabla de contenido 
 - [caracteristicas](#caracterisiticas)
@@ -43,4 +43,5 @@ git clone https://github.com/Alejandro303/repo2.git
 lineas de prueba para ver en el repositorio de Teylor
 
 
+nuevasssssss nuevassss
 
