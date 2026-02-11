@@ -49,3 +49,7 @@ lineas de prueba para ver en el repositorio de Teylor
 
 nuevasssssss nuevassss
 
+---
+## Video tutorial 
+
+[![CLICK PARA VER VIDEO TUTORIAL FULL LINK MEGA/MEDIAFIRE](asset/images.png)](https://www.youtube.com/watch?v=ixiTVt9ZYq0)
